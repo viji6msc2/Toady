@@ -11,7 +11,7 @@ public class Pagefactory {
 	
 	public  Pagefactory(WebDriver driver)
 	{
-		this .driver =driver ;
+		this .driver =driver 
 	}
 	
 	//Define User name Field
