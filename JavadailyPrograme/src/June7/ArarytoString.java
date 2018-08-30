@@ -10,7 +10,7 @@ public class ArarytoString {
 		String s1=String .valueOf(Array);
 		 
 		System.out.println(s1);
-
+;
 	}
 
 }
